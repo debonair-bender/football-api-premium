@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "serie-b",
   "season": "2026-2027",
-  "generatedAt": "2026-11-25T19:18:34.220972Z",
+  "generatedAt": "2026-11-25T21:21:30.535449Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-25T08:20:02.341424+00:00",
+    "calendarUpdatedAt": "2026-11-25T21:21:29.576074+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.875235+00:00",
       "2026-11-25T00:07:02.885246+00:00"
@@ -1791,9 +1791,9 @@
       "kickoffUtc": "2026-11-25T18:00:00Z",
       "round": 13,
       "venue": "Stadio Giovanni Zini",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "minute": null,
       "broadcasts": []
     },
@@ -1805,12 +1805,11 @@
       "kickoffUtc": "2026-11-25T19:00:00Z",
       "round": 13,
       "venue": "Arena Garibaldi - Stadio Romeo Anconetani",
-      "status": "SCHEDULED",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:02.875235+00:00"
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "serie-b:2026-2027:202637",
@@ -1820,12 +1819,11 @@
       "kickoffUtc": "2026-11-25T19:00:00Z",
       "round": 13,
       "venue": "Euganeo",
-      "status": "SCHEDULED",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:02.875235+00:00"
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 2,
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "serie-b:2026-2027:202639",
@@ -1835,12 +1833,11 @@
       "kickoffUtc": "2026-11-25T19:00:00Z",
       "round": 13,
       "venue": "Stadio Danilo Martelli",
-      "status": "SCHEDULED",
-      "homeScore": 0,
+      "status": "FINISHED",
+      "homeScore": 3,
       "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:02.875235+00:00"
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "serie-b:2026-2027:202641",

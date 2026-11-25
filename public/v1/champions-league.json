@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "champions-league",
   "season": "2026-2027",
-  "generatedAt": "2026-11-25T19:18:34.220972Z",
+  "generatedAt": "2026-11-25T21:21:30.535449Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-25T08:20:02.929031+00:00",
+    "calendarUpdatedAt": "2026-11-25T21:21:30.436002+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:03.763456+00:00",
       "2026-11-25T00:07:03.773459+00:00"
@@ -2425,10 +2425,10 @@
       "kickoffUtc": "2026-11-25T17:45:00Z",
       "round": 5,
       "venue": "Fortuna Arena",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
+      "awayScore": 1,
+      "minute": null,
       "broadcasts": [
         {
           "programmeId": "9245dc14bb50a63609fad8a2",
@@ -2441,8 +2441,7 @@
           "channelName": "IT - Sky Sport 254",
           "channelAliases": []
         }
-      ],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      ]
     },
     {
       "id": "champions-league:2026-2027:208481",
@@ -2452,10 +2451,10 @@
       "kickoffUtc": "2026-11-25T17:45:00Z",
       "round": 5,
       "venue": "Baku Olympic Stadium",
-      "status": "SCHEDULED",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 4,
+      "minute": null,
       "broadcasts": [
         {
           "programmeId": "c2f13e7c6ccc577cf750fd80",
@@ -2482,8 +2481,7 @@
             "Sky Calcio"
           ]
         }
-      ],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      ]
     },
     {
       "id": "champions-league:2026-2027:208359",

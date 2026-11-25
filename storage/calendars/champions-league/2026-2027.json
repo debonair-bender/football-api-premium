@@ -2,7 +2,7 @@
   "competition": "UEFA Champions League",
   "season": "2026/2027",
   "total": 234,
-  "updatedAt": "2026-11-25T08:20:02.929031+00:00",
+  "updatedAt": "2026-11-25T21:21:30.436002+00:00",
   "matches": [
     {
       "id": "198857",
@@ -2417,9 +2417,9 @@
       "awayTeam": "Villarreal",
       "stadium": "Fortuna Arena",
       "city": "Prague",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "espnId": "401915293"
     },
     {
@@ -2432,9 +2432,9 @@
       "awayTeam": "Barcelona",
       "stadium": "Baku Olympic Stadium",
       "city": "Baku",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 4,
       "espnId": "401915378"
     },
     {
@@ -2447,9 +2447,9 @@
       "awayTeam": "Bayern München",
       "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
       "city": "Lille",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 1,
+      "awayScore": 1,
       "espnId": "401915377"
     },
     {
@@ -2462,9 +2462,9 @@
       "awayTeam": "AS Roma",
       "stadium": "Parc des Princes",
       "city": "Paris",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 2,
+      "awayScore": 1,
       "espnId": "401915374"
     },
     {
@@ -2477,9 +2477,9 @@
       "awayTeam": "Manchester United",
       "stadium": "Estádio José Alvalade",
       "city": "Lisbon",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 1,
+      "awayScore": 2,
       "espnId": "401915373"
     },
     {
@@ -2492,9 +2492,9 @@
       "awayTeam": "VfB Stuttgart",
       "stadium": "San Siro",
       "city": "Milano",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 1,
+      "awayScore": 0,
       "espnId": "401915376"
     },
     {
@@ -2507,9 +2507,9 @@
       "awayTeam": "Viking",
       "stadium": "Riyadh Air Metropolitano",
       "city": "Madrid",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 2,
+      "awayScore": 0,
       "espnId": "401915291"
     },
     {
@@ -2522,9 +2522,9 @@
       "awayTeam": "Fenerbahçe",
       "stadium": "Stamford Bridge",
       "city": "London",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 1,
       "espnId": "401915375"
     },
     {
@@ -2537,9 +2537,9 @@
       "awayTeam": "Liverpool",
       "stadium": "Jan Breydel Stadium",
       "city": "Brugge",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 1,
       "espnId": "401915292"
     },
     {

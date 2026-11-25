@@ -2,7 +2,7 @@
   "competition": "Serie B",
   "season": "2026/2027",
   "total": 380,
-  "updatedAt": "2026-11-25T08:20:02.341424+00:00",
+  "updatedAt": "2026-11-25T21:21:29.576074+00:00",
   "matches": [
     {
       "id": "202519",
@@ -1793,9 +1793,9 @@
       "awayTeam": "Avellino",
       "stadium": "Stadio Giovanni Zini",
       "city": "Cremona",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "espnId": "401899537"
     },
     {
@@ -1808,9 +1808,9 @@
       "awayTeam": "Modena",
       "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
       "city": "Pisa",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
       "espnId": "401899531"
     },
     {
@@ -1823,9 +1823,9 @@
       "awayTeam": "Sampdoria",
       "stadium": "Euganeo",
       "city": "Padova",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 2,
       "espnId": "401899533"
     },
     {
@@ -1838,9 +1838,9 @@
       "awayTeam": "Arezzo",
       "stadium": "Stadio Danilo Martelli",
       "city": "Mantova",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
       "espnId": "401899534"
     },
     {
