@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "competition": "champions-league",
   "season": "2026-2027",
-  "generatedAt": "2026-11-25T08:26:38.700514Z",
+  "generatedAt": "2026-11-25T19:18:34.220972Z",
   "sources": {
     "calendarUpdatedAt": "2026-11-25T08:20:02.929031+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:03.763456+00:00",
       "2026-11-25T00:07:03.773459+00:00"
     ],
-    "epgUpdatedAt": "2026-11-25T00:06:30.669283Z",
-    "epgState": "error",
-    "epgCalendarState": null
+    "epgUpdatedAt": "2026-11-25T19:18:32.476489Z",
+    "epgState": "ok",
+    "epgCalendarState": "ok"
   },
   "matches": [
     {
@@ -2469,10 +2469,10 @@
           "channelAliases": []
         },
         {
-          "programmeId": "3784fcb994fac264c85a7a7f",
+          "programmeId": "0261791406ffa9764d9abaf7",
           "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-25T17:45:00Z",
-          "endUtc": "2026-11-25T19:45:00Z",
+          "startUtc": "2026-11-25T17:40:00Z",
+          "endUtc": "2026-11-25T19:40:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -2510,9 +2510,9 @@
           "channelAliases": []
         },
         {
-          "programmeId": "109fae9dffb7811f1a4c48aa",
+          "programmeId": "792bce90ac1fd96d5c8fd347",
           "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-25T20:00:00Z",
+          "startUtc": "2026-11-25T19:55:00Z",
           "endUtc": "2026-11-25T22:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
@@ -2524,9 +2524,9 @@
           ]
         },
         {
-          "programmeId": "03d4ecc32bc3fb818bfa8ba6",
+          "programmeId": "03b2ea1cbd34fe4dda9c0057",
           "channelId": "TV8.it",
-          "startUtc": "2026-11-25T20:00:00Z",
+          "startUtc": "2026-11-25T19:55:00Z",
           "endUtc": "2026-11-25T22:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
@@ -2607,9 +2607,9 @@
           "channelAliases": []
         },
         {
-          "programmeId": "2ebca0d0b146e07a76bb5028",
+          "programmeId": "f692f282e12e7192cb8a6015",
           "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-25T20:00:00Z",
+          "startUtc": "2026-11-25T19:55:00Z",
           "endUtc": "2026-11-25T22:00:00Z",
           "broadcastType": "live",
           "confidence": "high",

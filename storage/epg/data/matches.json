@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T00:06:30.669283Z",
+  "updatedAt": "2026-11-25T19:18:32.476489Z",
   "timezone": "Europe/Rome",
   "calendarState": "ok",
   "matches": [
@@ -41,10 +41,10 @@
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "3784fcb994fac264c85a7a7f",
+          "programmeId": "0261791406ffa9764d9abaf7",
           "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-25T17:45:00Z",
-          "endUtc": "2026-11-25T19:45:00Z",
+          "startUtc": "2026-11-25T17:40:00Z",
+          "endUtc": "2026-11-25T19:40:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time"
@@ -105,18 +105,18 @@
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "109fae9dffb7811f1a4c48aa",
+          "programmeId": "792bce90ac1fd96d5c8fd347",
           "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-25T20:00:00Z",
+          "startUtc": "2026-11-25T19:55:00Z",
           "endUtc": "2026-11-25T22:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "03d4ecc32bc3fb818bfa8ba6",
+          "programmeId": "03b2ea1cbd34fe4dda9c0057",
           "channelId": "TV8.it",
-          "startUtc": "2026-11-25T20:00:00Z",
+          "startUtc": "2026-11-25T19:55:00Z",
           "endUtc": "2026-11-25T22:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
@@ -170,9 +170,9 @@
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "2ebca0d0b146e07a76bb5028",
+          "programmeId": "f692f282e12e7192cb8a6015",
           "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-25T20:00:00Z",
+          "startUtc": "2026-11-25T19:55:00Z",
           "endUtc": "2026-11-25T22:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
@@ -245,6 +245,15 @@
       "awayTeam": "Bologna",
       "kickoffUtc": "2026-11-27T19:45:00Z",
       "broadcasts": [
+        {
+          "programmeId": "b5d6d1090a9c2bc7852a64ad",
+          "channelId": "SkySport251.it",
+          "startUtc": "2026-11-27T19:00:00Z",
+          "endUtc": "2026-11-27T23:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
         {
           "programmeId": "801efdec787be6ff2183a516",
           "channelId": "SkySport4K.it",
@@ -357,6 +366,15 @@
       "kickoffUtc": "2026-11-28T19:45:00Z",
       "broadcasts": [
         {
+          "programmeId": "2c979fec438dc655150803a5",
+          "channelId": "SkySport251.it",
+          "startUtc": "2026-11-28T19:00:00Z",
+          "endUtc": "2026-11-28T23:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
           "programmeId": "b6cdfa2d4ac44a25b6d1004c",
           "channelId": "SkySport4K.it",
           "startUtc": "2026-11-28T19:45:00Z",
@@ -449,6 +467,15 @@
       "awayTeam": "Monza",
       "kickoffUtc": "2026-11-29T17:00:00Z",
       "broadcasts": [
+        {
+          "programmeId": "ebe2ec1eba10197c8814a5ed",
+          "channelId": "SkySport251.it",
+          "startUtc": "2026-11-29T16:00:00Z",
+          "endUtc": "2026-11-29T19:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
         {
           "programmeId": "f86e5f42e0aa56ff74fb07aa",
           "channelId": "SkySport4K.it",

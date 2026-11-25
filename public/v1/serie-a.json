@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "competition": "serie-a",
   "season": "2026-2027",
-  "generatedAt": "2026-11-25T08:26:38.700514Z",
+  "generatedAt": "2026-11-25T19:18:34.220972Z",
   "sources": {
     "calendarUpdatedAt": "2026-11-24T00:48:27.473733+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.018085+00:00",
       "2026-11-25T00:07:02.030271+00:00"
     ],
-    "epgUpdatedAt": "2026-11-25T00:06:30.669283Z",
-    "epgState": "error",
-    "epgCalendarState": null
+    "epgUpdatedAt": "2026-11-25T19:18:32.476489Z",
+    "epgState": "ok",
+    "epgCalendarState": "ok"
   },
   "matches": [
     {
@@ -1708,6 +1708,17 @@
       "minute": null,
       "broadcasts": [
         {
+          "programmeId": "b5d6d1090a9c2bc7852a64ad",
+          "channelId": "SkySport251.it",
+          "startUtc": "2026-11-27T19:00:00Z",
+          "endUtc": "2026-11-27T23:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time",
+          "channelName": "IT - Sky Sport 251",
+          "channelAliases": []
+        },
+        {
           "programmeId": "801efdec787be6ff2183a516",
           "channelId": "SkySport4K.it",
           "startUtc": "2026-11-27T19:45:00Z",
@@ -1808,6 +1819,17 @@
       "minute": null,
       "broadcasts": [
         {
+          "programmeId": "2c979fec438dc655150803a5",
+          "channelId": "SkySport251.it",
+          "startUtc": "2026-11-28T19:00:00Z",
+          "endUtc": "2026-11-28T23:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time",
+          "channelName": "IT - Sky Sport 251",
+          "channelAliases": []
+        },
+        {
           "programmeId": "b6cdfa2d4ac44a25b6d1004c",
           "channelId": "SkySport4K.it",
           "startUtc": "2026-11-28T19:45:00Z",
@@ -1907,6 +1929,17 @@
       "awayScore": null,
       "minute": null,
       "broadcasts": [
+        {
+          "programmeId": "ebe2ec1eba10197c8814a5ed",
+          "channelId": "SkySport251.it",
+          "startUtc": "2026-11-29T16:00:00Z",
+          "endUtc": "2026-11-29T19:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time",
+          "channelName": "IT - Sky Sport 251",
+          "channelAliases": []
+        },
         {
           "programmeId": "f86e5f42e0aa56ff74fb07aa",
           "channelId": "SkySport4K.it",
