@@ -1,0 +1,62 @@
+name: Update Football EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+  pull_request:
+    paths: ['epg/**', '.github/workflows/update-epg.yml']
+
+permissions:
+  contents: read
+
+concurrency:
+  group: football-data-update
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r epg/requirements.txt
+      - run: python -m unittest discover -s tests -v
+        working-directory: epg
+      - run: python -m unittest discover -s tests -v
+  update:
+    needs: test
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r epg/requirements.txt
+      - name: Aggiorna guida e associazioni
+        id: sync
+        continue-on-error: true
+        run: python epg/sync_epg.py --calendar-dir storage/calendars --output storage/epg
+      - name: Genera dati pronti per il client
+        if: always() && steps.sync.outcome != 'skipped'
+        run: python publish.py
+      - name: Pubblica dati e stato
+        if: always() && steps.sync.outcome != 'skipped'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add storage/epg/data public/
+          if [ -f storage/epg/PROGRAMMAZIONE.md ]; then git add storage/epg/PROGRAMMAZIONE.md; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Update football EPG"
+            git push
+          fi
+      - name: Segnala errore sorgente
+        if: steps.sync.outcome == 'failure'
+        run: exit 1

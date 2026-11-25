@@ -1,0 +1,41 @@
+{
+  "competitions": {
+    "serie-a": {
+      "name": "Serie A",
+      "enabled": true,
+      "script": "scrapers/serie_a.py",
+      "seasons": {
+        "2026-2027": {
+          "enabled": true
+        }
+      },
+      "espn_id": "ita.1"
+    },
+    "serie-b": {
+      "name": "Serie B",
+      "enabled": true,
+      "script": "scrapers/serie_b.py",
+      "seasons": {
+        "2026-2027": {
+          "enabled": true
+        }
+      },
+      "espn_id": "ita.2"
+    },
+    "champions-league": {
+      "name": "UEFA Champions League",
+      "enabled": true,
+      "script": "scrapers/champions_league.py",
+      "seasons": {
+        "2026-2027": {
+          "enabled": true
+        }
+      },
+      "espn_id": "uefa.champions"
+    }
+  },
+  "settings": {
+    "timezone": "Europe/Rome",
+    "request_timeout_seconds": 20
+  }
+}

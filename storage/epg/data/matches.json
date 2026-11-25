@@ -1,0 +1,548 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-25T00:06:30.669283Z",
+  "timezone": "Europe/Rome",
+  "calendarState": "ok",
+  "matches": [
+    {
+      "fixtureId": "champions-league:208446",
+      "calendarId": "208446",
+      "competition": "champions-league",
+      "homeTeam": "Slavia Praha",
+      "awayTeam": "Villarreal",
+      "kickoffUtc": "2026-11-25T17:45:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "9245dc14bb50a63609fad8a2",
+          "channelId": "SkySport254.it",
+          "startUtc": "2026-11-25T17:00:00Z",
+          "endUtc": "2026-11-25T19:55:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "champions-league:208481",
+      "calendarId": "208481",
+      "competition": "champions-league",
+      "homeTeam": "Sabah FA",
+      "awayTeam": "Barcelona",
+      "kickoffUtc": "2026-11-25T17:45:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "c2f13e7c6ccc577cf750fd80",
+          "channelId": "SkySport253.it",
+          "startUtc": "2026-11-25T17:00:00Z",
+          "endUtc": "2026-11-25T19:55:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
+          "programmeId": "3784fcb994fac264c85a7a7f",
+          "channelId": "SkySportCalcio.it",
+          "startUtc": "2026-11-25T17:45:00Z",
+          "endUtc": "2026-11-25T19:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-b:202632",
+      "calendarId": "202632",
+      "competition": "serie-b",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Avellino",
+      "kickoffUtc": "2026-11-25T18:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202635",
+      "calendarId": "202635",
+      "competition": "serie-b",
+      "homeTeam": "Pisa",
+      "awayTeam": "Modena",
+      "kickoffUtc": "2026-11-25T19:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202637",
+      "calendarId": "202637",
+      "competition": "serie-b",
+      "homeTeam": "Padova",
+      "awayTeam": "Sampdoria",
+      "kickoffUtc": "2026-11-25T19:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202639",
+      "calendarId": "202639",
+      "competition": "serie-b",
+      "homeTeam": "Mantova",
+      "awayTeam": "Arezzo",
+      "kickoffUtc": "2026-11-25T19:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "champions-league:208359",
+      "calendarId": "208359",
+      "competition": "champions-league",
+      "homeTeam": "Lille",
+      "awayTeam": "Bayern München",
+      "kickoffUtc": "2026-11-25T20:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "072286832e6f50839a434250",
+          "channelId": "SkySport253.it",
+          "startUtc": "2026-11-25T19:55:00Z",
+          "endUtc": "2026-11-26T00:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
+          "programmeId": "109fae9dffb7811f1a4c48aa",
+          "channelId": "SkySportCalcio.it",
+          "startUtc": "2026-11-25T20:00:00Z",
+          "endUtc": "2026-11-25T22:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
+          "programmeId": "03d4ecc32bc3fb818bfa8ba6",
+          "channelId": "TV8.it",
+          "startUtc": "2026-11-25T20:00:00Z",
+          "endUtc": "2026-11-25T22:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "champions-league:208363",
+      "calendarId": "208363",
+      "competition": "champions-league",
+      "homeTeam": "Paris Saint Germain",
+      "awayTeam": "AS Roma",
+      "kickoffUtc": "2026-11-25T20:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "champions-league:208399",
+      "calendarId": "208399",
+      "competition": "champions-league",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Manchester United",
+      "kickoffUtc": "2026-11-25T20:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "0d3f79088156147cbe71c747",
+          "channelId": "SkySport255.it",
+          "startUtc": "2026-11-25T19:30:00Z",
+          "endUtc": "2026-11-26T00:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "champions-league:208416",
+      "calendarId": "208416",
+      "competition": "champions-league",
+      "homeTeam": "Inter",
+      "awayTeam": "VfB Stuttgart",
+      "kickoffUtc": "2026-11-25T20:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "57b6486242189569680a4c02",
+          "channelId": "SkySport252.it",
+          "startUtc": "2026-11-25T19:00:00Z",
+          "endUtc": "2026-11-26T00:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
+          "programmeId": "2ebca0d0b146e07a76bb5028",
+          "channelId": "SkySport4K.it",
+          "startUtc": "2026-11-25T20:00:00Z",
+          "endUtc": "2026-11-25T22:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "champions-league:208426",
+      "calendarId": "208426",
+      "competition": "champions-league",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Viking",
+      "kickoffUtc": "2026-11-25T20:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "bbb1828e25880ca062ec04d9",
+          "channelId": "SkySport256.it",
+          "startUtc": "2026-11-25T19:00:00Z",
+          "endUtc": "2026-11-26T00:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "champions-league:208442",
+      "calendarId": "208442",
+      "competition": "champions-league",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Fenerbahçe",
+      "kickoffUtc": "2026-11-25T20:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "d3be920d4cfbd53f5cc2af96",
+          "channelId": "SkySport257.it",
+          "startUtc": "2026-11-25T19:00:00Z",
+          "endUtc": "2026-11-26T00:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "champions-league:208447",
+      "calendarId": "208447",
+      "competition": "champions-league",
+      "homeTeam": "Club Brugge KV",
+      "awayTeam": "Liverpool",
+      "kickoffUtc": "2026-11-25T20:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "e2257ecb95267673ee6017f4",
+          "channelId": "SkySport254.it",
+          "startUtc": "2026-11-25T19:55:00Z",
+          "endUtc": "2026-11-26T00:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-a:186221",
+      "calendarId": "186221",
+      "competition": "serie-a",
+      "homeTeam": "Venezia",
+      "awayTeam": "Bologna",
+      "kickoffUtc": "2026-11-27T19:45:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "801efdec787be6ff2183a516",
+          "channelId": "SkySport4K.it",
+          "startUtc": "2026-11-27T19:45:00Z",
+          "endUtc": "2026-11-27T21:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
+          "programmeId": "77ca53edb362feb7b092aab9",
+          "channelId": "SkySportCalcio.it",
+          "startUtc": "2026-11-27T19:45:00Z",
+          "endUtc": "2026-11-27T21:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-a:186220",
+      "calendarId": "186220",
+      "competition": "serie-a",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Parma",
+      "kickoffUtc": "2026-11-28T14:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "957221d3f8db60c2c0695200",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-11-28T14:00:00Z",
+          "endUtc": "2026-11-28T14:15:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-b:202641",
+      "calendarId": "202641",
+      "competition": "serie-b",
+      "homeTeam": "Ascoli",
+      "awayTeam": "Virtus Entella",
+      "kickoffUtc": "2026-11-28T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202642",
+      "calendarId": "202642",
+      "competition": "serie-b",
+      "homeTeam": "Empoli",
+      "awayTeam": "Hellas Verona",
+      "kickoffUtc": "2026-11-28T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202647",
+      "calendarId": "202647",
+      "competition": "serie-b",
+      "homeTeam": "Carrarese",
+      "awayTeam": "Juve Stabia",
+      "kickoffUtc": "2026-11-28T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202648",
+      "calendarId": "202648",
+      "competition": "serie-b",
+      "homeTeam": "Vicenza Virtus",
+      "awayTeam": "Cesena",
+      "kickoffUtc": "2026-11-28T16:15:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-a:186218",
+      "calendarId": "186218",
+      "competition": "serie-a",
+      "homeTeam": "Torino",
+      "awayTeam": "Lazio",
+      "kickoffUtc": "2026-11-28T17:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "442d2624916b6b22b7a672c5",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-11-28T17:00:00Z",
+          "endUtc": "2026-11-28T18:50:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-b:202643",
+      "calendarId": "202643",
+      "competition": "serie-b",
+      "homeTeam": "Palermo",
+      "awayTeam": "Benevento",
+      "kickoffUtc": "2026-11-28T18:30:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-a:186219",
+      "calendarId": "186219",
+      "competition": "serie-a",
+      "homeTeam": "Inter",
+      "awayTeam": "Genoa",
+      "kickoffUtc": "2026-11-28T19:45:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "b6cdfa2d4ac44a25b6d1004c",
+          "channelId": "SkySport4K.it",
+          "startUtc": "2026-11-28T19:45:00Z",
+          "endUtc": "2026-11-28T21:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
+          "programmeId": "664c0b065b4e3727377c398a",
+          "channelId": "SkySportCalcio.it",
+          "startUtc": "2026-11-28T19:45:00Z",
+          "endUtc": "2026-11-28T21:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-a:186216",
+      "calendarId": "186216",
+      "competition": "serie-a",
+      "homeTeam": "Udinese",
+      "awayTeam": "Fiorentina",
+      "kickoffUtc": "2026-11-29T11:30:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "7ab759df8a4a3e907ae96720",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-11-29T11:30:00Z",
+          "endUtc": "2026-11-29T12:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-a:186214",
+      "calendarId": "186214",
+      "competition": "serie-a",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Napoli",
+      "kickoffUtc": "2026-11-29T14:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "e5ab14959dbf95770cdf431f",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-11-29T14:00:00Z",
+          "endUtc": "2026-11-29T14:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-b:202645",
+      "calendarId": "202645",
+      "competition": "serie-b",
+      "homeTeam": "Modena",
+      "awayTeam": "Padova",
+      "kickoffUtc": "2026-11-29T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202646",
+      "calendarId": "202646",
+      "competition": "serie-b",
+      "homeTeam": "Sudtirol",
+      "awayTeam": "Mantova",
+      "kickoffUtc": "2026-11-29T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202640",
+      "calendarId": "202640",
+      "competition": "serie-b",
+      "homeTeam": "Sampdoria",
+      "awayTeam": "Cremonese",
+      "kickoffUtc": "2026-11-29T16:15:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-a:186217",
+      "calendarId": "186217",
+      "competition": "serie-a",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Monza",
+      "kickoffUtc": "2026-11-29T17:00:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "f86e5f42e0aa56ff74fb07aa",
+          "channelId": "SkySport4K.it",
+          "startUtc": "2026-11-29T17:00:00Z",
+          "endUtc": "2026-11-29T19:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        },
+        {
+          "programmeId": "4a36703fdfb19a2679162169",
+          "channelId": "SkySportCalcio.it",
+          "startUtc": "2026-11-29T17:00:00Z",
+          "endUtc": "2026-11-29T19:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-b:202644",
+      "calendarId": "202644",
+      "competition": "serie-b",
+      "homeTeam": "Arezzo",
+      "awayTeam": "Pisa",
+      "kickoffUtc": "2026-11-29T18:30:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-a:186223",
+      "calendarId": "186223",
+      "competition": "serie-a",
+      "homeTeam": "Como",
+      "awayTeam": "Juventus",
+      "kickoffUtc": "2026-11-29T19:45:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "77f75f968b31ed2b192fed78",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-11-29T19:45:00Z",
+          "endUtc": "2026-11-29T21:25:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-a:186222",
+      "calendarId": "186222",
+      "competition": "serie-a",
+      "homeTeam": "Lecce",
+      "awayTeam": "Atalanta",
+      "kickoffUtc": "2026-11-30T17:30:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "b872c345b93a3a7d8a70c195",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-11-30T17:30:00Z",
+          "endUtc": "2026-11-30T19:45:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    },
+    {
+      "fixtureId": "serie-b:202649",
+      "calendarId": "202649",
+      "competition": "serie-b",
+      "homeTeam": "Catanzaro",
+      "awayTeam": "Avellino",
+      "kickoffUtc": "2026-11-30T19:30:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-a:186215",
+      "calendarId": "186215",
+      "competition": "serie-a",
+      "homeTeam": "Cagliari",
+      "awayTeam": "AC Milan",
+      "kickoffUtc": "2026-11-30T19:45:00Z",
+      "broadcasts": [
+        {
+          "programmeId": "aa4cee1136d78787f9340f0a",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-11-30T19:45:00Z",
+          "endUtc": "2026-11-30T22:00:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time"
+        }
+      ]
+    }
+  ]
+}
