@@ -2,7 +2,7 @@
   "competition": "Serie B",
   "season": "2026/2027",
   "total": 380,
-  "updatedAt": "2026-11-24T18:47:27.575360+00:00",
+  "updatedAt": "2026-11-25T08:20:02.341424+00:00",
   "matches": [
     {
       "id": "202519",
@@ -1703,9 +1703,9 @@
       "awayTeam": "Catanzaro",
       "stadium": "Romeo Menti di Castellammare",
       "city": "Castellammare di Stabia",
-      "status": "LIVE",
-      "homeScore": 0,
-      "awayScore": 1,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 3,
       "espnId": "401899536"
     },
     {
@@ -1718,9 +1718,9 @@
       "awayTeam": "Empoli",
       "stadium": "Stadio Ciro Vigorito",
       "city": "Benevento",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 5,
+      "awayScore": 0,
       "espnId": "401899539"
     },
     {
@@ -1733,9 +1733,9 @@
       "awayTeam": "Ascoli",
       "stadium": "Estadio Dino Manuzzi",
       "city": "Cesena",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 5,
+      "awayScore": 1,
       "espnId": "401899538"
     },
     {
@@ -1748,9 +1748,9 @@
       "awayTeam": "Sudtirol",
       "stadium": "Stadio Renzo Barbera",
       "city": "Palermo",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 4,
+      "awayScore": 1,
       "espnId": "401899532"
     },
     {
@@ -1763,9 +1763,9 @@
       "awayTeam": "Hellas Verona",
       "stadium": "Comunale Aldo Gastaldi",
       "city": "Chiavari",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "espnId": "401899530"
     },
     {
@@ -1778,9 +1778,9 @@
       "awayTeam": "Carrarese",
       "stadium": "Romeo Menti di Vicenza",
       "city": "Vicenza",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "espnId": "401899535"
     },
     {

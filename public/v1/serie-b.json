@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "serie-b",
   "season": "2026-2027",
-  "generatedAt": "2026-11-25T00:07:05.698715Z",
+  "generatedAt": "2026-11-25T08:20:03.082782Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-24T18:47:27.575360+00:00",
+    "calendarUpdatedAt": "2026-11-25T08:20:02.341424+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.875235+00:00",
       "2026-11-25T00:07:02.885246+00:00"
@@ -1777,9 +1777,9 @@
       "kickoffUtc": "2026-11-24T19:00:00Z",
       "round": 13,
       "venue": "Romeo Menti di Vicenza",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "minute": null,
       "broadcasts": []
     },
