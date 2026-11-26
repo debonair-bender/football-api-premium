@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "competition": "champions-league",
   "season": "2026-2027",
-  "generatedAt": "2026-11-25T21:21:30.535449Z",
+  "generatedAt": "2026-11-26T02:52:06.833970Z",
   "sources": {
     "calendarUpdatedAt": "2026-11-25T21:21:30.436002+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:03.763456+00:00",
       "2026-11-25T00:07:03.773459+00:00"
     ],
-    "epgUpdatedAt": "2026-11-25T19:18:32.476489Z",
+    "epgUpdatedAt": "2026-11-26T02:52:05.286444Z",
     "epgState": "ok",
     "epgCalendarState": "ok"
   },
@@ -2429,19 +2429,7 @@
       "homeScore": 0,
       "awayScore": 1,
       "minute": null,
-      "broadcasts": [
-        {
-          "programmeId": "9245dc14bb50a63609fad8a2",
-          "channelId": "SkySport254.it",
-          "startUtc": "2026-11-25T17:00:00Z",
-          "endUtc": "2026-11-25T19:55:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 254",
-          "channelAliases": []
-        }
-      ]
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208481",
@@ -2455,33 +2443,7 @@
       "homeScore": 1,
       "awayScore": 4,
       "minute": null,
-      "broadcasts": [
-        {
-          "programmeId": "c2f13e7c6ccc577cf750fd80",
-          "channelId": "SkySport253.it",
-          "startUtc": "2026-11-25T17:00:00Z",
-          "endUtc": "2026-11-25T19:55:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 253",
-          "channelAliases": []
-        },
-        {
-          "programmeId": "0261791406ffa9764d9abaf7",
-          "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-25T17:40:00Z",
-          "endUtc": "2026-11-25T19:40:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport Calcio",
-          "channelAliases": [
-            "Sky Sport Calcio",
-            "Sky Calcio"
-          ]
-        }
-      ]
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208359",
@@ -2495,47 +2457,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "minute": "0'",
-      "broadcasts": [
-        {
-          "programmeId": "072286832e6f50839a434250",
-          "channelId": "SkySport253.it",
-          "startUtc": "2026-11-25T19:55:00Z",
-          "endUtc": "2026-11-26T00:30:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 253",
-          "channelAliases": []
-        },
-        {
-          "programmeId": "792bce90ac1fd96d5c8fd347",
-          "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-25T19:55:00Z",
-          "endUtc": "2026-11-25T22:00:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport Calcio",
-          "channelAliases": [
-            "Sky Sport Calcio",
-            "Sky Calcio"
-          ]
-        },
-        {
-          "programmeId": "03b2ea1cbd34fe4dda9c0057",
-          "channelId": "TV8.it",
-          "startUtc": "2026-11-25T19:55:00Z",
-          "endUtc": "2026-11-25T22:00:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - TV8",
-          "channelAliases": [
-            "TV8",
-            "TV 8"
-          ]
-        }
-      ],
+      "broadcasts": [],
       "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
     },
     {
@@ -2565,19 +2487,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "minute": "0'",
-      "broadcasts": [
-        {
-          "programmeId": "0d3f79088156147cbe71c747",
-          "channelId": "SkySport255.it",
-          "startUtc": "2026-11-25T19:30:00Z",
-          "endUtc": "2026-11-26T00:30:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 255",
-          "channelAliases": []
-        }
-      ],
+      "broadcasts": [],
       "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
     },
     {
@@ -2592,32 +2502,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "minute": "0'",
-      "broadcasts": [
-        {
-          "programmeId": "57b6486242189569680a4c02",
-          "channelId": "SkySport252.it",
-          "startUtc": "2026-11-25T19:00:00Z",
-          "endUtc": "2026-11-26T00:30:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 252",
-          "channelAliases": []
-        },
-        {
-          "programmeId": "f692f282e12e7192cb8a6015",
-          "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-25T19:55:00Z",
-          "endUtc": "2026-11-25T22:00:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 4K",
-          "channelAliases": [
-            "Sky Sport 4K"
-          ]
-        }
-      ],
+      "broadcasts": [],
       "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
     },
     {
@@ -2632,19 +2517,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "minute": "0'",
-      "broadcasts": [
-        {
-          "programmeId": "bbb1828e25880ca062ec04d9",
-          "channelId": "SkySport256.it",
-          "startUtc": "2026-11-25T19:00:00Z",
-          "endUtc": "2026-11-26T00:30:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 256",
-          "channelAliases": []
-        }
-      ],
+      "broadcasts": [],
       "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
     },
     {
@@ -2659,19 +2532,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "minute": "0'",
-      "broadcasts": [
-        {
-          "programmeId": "d3be920d4cfbd53f5cc2af96",
-          "channelId": "SkySport257.it",
-          "startUtc": "2026-11-25T19:00:00Z",
-          "endUtc": "2026-11-26T00:30:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 257",
-          "channelAliases": []
-        }
-      ],
+      "broadcasts": [],
       "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
     },
     {
@@ -2686,19 +2547,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "minute": "0'",
-      "broadcasts": [
-        {
-          "programmeId": "e2257ecb95267673ee6017f4",
-          "channelId": "SkySport254.it",
-          "startUtc": "2026-11-25T19:55:00Z",
-          "endUtc": "2026-11-26T00:30:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 254",
-          "channelAliases": []
-        }
-      ],
+      "broadcasts": [],
       "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
     },
     {

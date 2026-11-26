@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "competition": "serie-a",
   "season": "2026-2027",
-  "generatedAt": "2026-11-25T21:21:30.535449Z",
+  "generatedAt": "2026-11-26T02:52:06.833970Z",
   "sources": {
     "calendarUpdatedAt": "2026-11-24T00:48:27.473733+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.018085+00:00",
       "2026-11-25T00:07:02.030271+00:00"
     ],
-    "epgUpdatedAt": "2026-11-25T19:18:32.476489Z",
+    "epgUpdatedAt": "2026-11-26T02:52:05.286444Z",
     "epgState": "ok",
     "epgCalendarState": "ok"
   },
