@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "champions-league",
   "season": "2026-2027",
-  "generatedAt": "2026-11-26T02:52:06.833970Z",
+  "generatedAt": "2026-11-26T07:29:58.002485Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-25T21:21:30.436002+00:00",
+    "calendarUpdatedAt": "2026-11-26T07:29:57.888098+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:03.763456+00:00",
       "2026-11-25T00:07:03.773459+00:00"
@@ -2453,12 +2453,11 @@
       "kickoffUtc": "2026-11-25T20:00:00Z",
       "round": 5,
       "venue": "Decathlon Arena - Stade Pierre-Mauroy",
-      "status": "SCHEDULED",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208363",
@@ -2468,12 +2467,11 @@
       "kickoffUtc": "2026-11-25T20:00:00Z",
       "round": 5,
       "venue": "Parc des Princes",
-      "status": "SCHEDULED",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208399",
@@ -2483,12 +2481,11 @@
       "kickoffUtc": "2026-11-25T20:00:00Z",
       "round": 5,
       "venue": "Estádio José Alvalade",
-      "status": "SCHEDULED",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 2,
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208416",
@@ -2498,12 +2495,11 @@
       "kickoffUtc": "2026-11-25T20:00:00Z",
       "round": 5,
       "venue": "San Siro",
-      "status": "SCHEDULED",
-      "homeScore": 0,
+      "status": "FINISHED",
+      "homeScore": 2,
       "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208426",
@@ -2513,12 +2509,11 @@
       "kickoffUtc": "2026-11-25T20:00:00Z",
       "round": 5,
       "venue": "Riyadh Air Metropolitano",
-      "status": "SCHEDULED",
-      "homeScore": 0,
+      "status": "FINISHED",
+      "homeScore": 2,
       "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208442",
@@ -2528,12 +2523,11 @@
       "kickoffUtc": "2026-11-25T20:00:00Z",
       "round": 5,
       "venue": "Stamford Bridge",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      "awayScore": 1,
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208447",
@@ -2543,12 +2537,11 @@
       "kickoffUtc": "2026-11-25T20:00:00Z",
       "round": 5,
       "venue": "Jan Breydel Stadium",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 0,
-      "minute": "0'",
-      "broadcasts": [],
-      "liveUpdatedAt": "2026-11-25T00:07:03.763456+00:00"
+      "awayScore": 3,
+      "minute": null,
+      "broadcasts": []
     },
     {
       "id": "champions-league:2026-2027:208430",
