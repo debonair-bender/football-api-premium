@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "competition": "serie-a",
   "season": "2026-2027",
-  "generatedAt": "2026-11-27T20:52:42.910147Z",
+  "generatedAt": "2026-11-27T23:28:22.236844Z",
   "sources": {
     "calendarUpdatedAt": "2026-11-27T20:52:40.956779+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.018085+00:00",
       "2026-11-25T00:07:02.030271+00:00"
     ],
-    "epgUpdatedAt": "2026-11-27T15:07:14.797551Z",
+    "epgUpdatedAt": "2026-11-27T23:28:20.693428Z",
     "epgState": "ok",
     "epgCalendarState": "ok"
   },
@@ -1706,46 +1706,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "minute": null,
-      "broadcasts": [
-        {
-          "programmeId": "b5d6d1090a9c2bc7852a64ad",
-          "channelId": "SkySport251.it",
-          "startUtc": "2026-11-27T19:00:00Z",
-          "endUtc": "2026-11-27T23:00:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 251",
-          "channelAliases": []
-        },
-        {
-          "programmeId": "f7ded12c06523b8d4de21057",
-          "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-27T19:40:00Z",
-          "endUtc": "2026-11-27T21:45:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport 4K",
-          "channelAliases": [
-            "Sky Sport 4K"
-          ]
-        },
-        {
-          "programmeId": "ae356e89e63c7cd966fbf951",
-          "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-27T19:40:00Z",
-          "endUtc": "2026-11-27T21:45:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time",
-          "channelName": "IT - Sky Sport Calcio",
-          "channelAliases": [
-            "Sky Sport Calcio",
-            "Sky Calcio"
-          ]
-        }
-      ]
+      "broadcasts": []
     },
     {
       "id": "serie-a:2026-2027:186220",

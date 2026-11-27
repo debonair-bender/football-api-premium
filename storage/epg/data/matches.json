@@ -1,46 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T15:07:14.797551Z",
+  "updatedAt": "2026-11-27T23:28:20.693428Z",
   "timezone": "Europe/Rome",
   "calendarState": "ok",
   "matches": [
-    {
-      "fixtureId": "serie-a:186221",
-      "calendarId": "186221",
-      "competition": "serie-a",
-      "homeTeam": "Venezia",
-      "awayTeam": "Bologna",
-      "kickoffUtc": "2026-11-27T19:45:00Z",
-      "broadcasts": [
-        {
-          "programmeId": "b5d6d1090a9c2bc7852a64ad",
-          "channelId": "SkySport251.it",
-          "startUtc": "2026-11-27T19:00:00Z",
-          "endUtc": "2026-11-27T23:00:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time"
-        },
-        {
-          "programmeId": "f7ded12c06523b8d4de21057",
-          "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-27T19:40:00Z",
-          "endUtc": "2026-11-27T21:45:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time"
-        },
-        {
-          "programmeId": "ae356e89e63c7cd966fbf951",
-          "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-27T19:40:00Z",
-          "endUtc": "2026-11-27T21:45:00Z",
-          "broadcastType": "live",
-          "confidence": "high",
-          "evidence": "teams_in_title_and_time"
-        }
-      ]
-    },
     {
       "fixtureId": "serie-a:186220",
       "calendarId": "186220",
@@ -337,6 +300,96 @@
           "evidence": "teams_in_title_and_time"
         }
       ]
+    },
+    {
+      "fixtureId": "serie-b:202650",
+      "calendarId": "202650",
+      "competition": "serie-b",
+      "homeTeam": "Hellas Verona",
+      "awayTeam": "Palermo",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202651",
+      "calendarId": "202651",
+      "competition": "serie-b",
+      "homeTeam": "Cesena",
+      "awayTeam": "Carrarese",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202652",
+      "calendarId": "202652",
+      "competition": "serie-b",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Catanzaro",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202653",
+      "calendarId": "202653",
+      "competition": "serie-b",
+      "homeTeam": "Virtus Entella",
+      "awayTeam": "Empoli",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202654",
+      "calendarId": "202654",
+      "competition": "serie-b",
+      "homeTeam": "Avellino",
+      "awayTeam": "Sudtirol",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202655",
+      "calendarId": "202655",
+      "competition": "serie-b",
+      "homeTeam": "Pisa",
+      "awayTeam": "Sampdoria",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202656",
+      "calendarId": "202656",
+      "competition": "serie-b",
+      "homeTeam": "Juve Stabia",
+      "awayTeam": "Benevento",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202657",
+      "calendarId": "202657",
+      "competition": "serie-b",
+      "homeTeam": "Padova",
+      "awayTeam": "Vicenza Virtus",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202658",
+      "calendarId": "202658",
+      "competition": "serie-b",
+      "homeTeam": "Modena",
+      "awayTeam": "Arezzo",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
+    },
+    {
+      "fixtureId": "serie-b:202659",
+      "calendarId": "202659",
+      "competition": "serie-b",
+      "homeTeam": "Mantova",
+      "awayTeam": "Ascoli",
+      "kickoffUtc": "2026-12-05T14:00:00Z",
+      "broadcasts": []
     }
   ]
 }
