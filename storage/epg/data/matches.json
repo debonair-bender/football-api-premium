@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T05:04:21.307728Z",
+  "updatedAt": "2026-11-27T15:07:14.797551Z",
   "timezone": "Europe/Rome",
   "calendarState": "ok",
   "matches": [
@@ -22,18 +22,18 @@
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "801efdec787be6ff2183a516",
+          "programmeId": "f7ded12c06523b8d4de21057",
           "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-27T19:45:00Z",
+          "startUtc": "2026-11-27T19:40:00Z",
           "endUtc": "2026-11-27T21:45:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "77ca53edb362feb7b092aab9",
+          "programmeId": "ae356e89e63c7cd966fbf951",
           "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-27T19:45:00Z",
+          "startUtc": "2026-11-27T19:40:00Z",
           "endUtc": "2026-11-27T21:45:00Z",
           "broadcastType": "live",
           "confidence": "high",
@@ -142,18 +142,18 @@
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "b6cdfa2d4ac44a25b6d1004c",
+          "programmeId": "bb3e1d654f4e5d2388b7c894",
           "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-28T19:45:00Z",
+          "startUtc": "2026-11-28T19:40:00Z",
           "endUtc": "2026-11-28T21:45:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time"
         },
         {
-          "programmeId": "664c0b065b4e3727377c398a",
+          "programmeId": "5987b12dc9ba2b24560ec203",
           "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-28T19:45:00Z",
+          "startUtc": "2026-11-28T19:40:00Z",
           "endUtc": "2026-11-28T21:45:00Z",
           "broadcastType": "live",
           "confidence": "high",
