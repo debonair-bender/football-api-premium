@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "serie-a",
   "season": "2026-2027",
-  "generatedAt": "2026-11-27T15:07:16.530775Z",
+  "generatedAt": "2026-11-27T20:52:42.910147Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-24T00:48:27.473733+00:00",
+    "calendarUpdatedAt": "2026-11-27T20:52:40.956779+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.018085+00:00",
       "2026-11-25T00:07:02.030271+00:00"
@@ -1702,9 +1702,9 @@
       "kickoffUtc": "2026-11-27T19:45:00Z",
       "round": 13,
       "venue": "Stadio Pier Luigi Penzo",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "minute": null,
       "broadcasts": [
         {
