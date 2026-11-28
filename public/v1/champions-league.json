@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "competition": "champions-league",
   "season": "2026-2027",
-  "generatedAt": "2026-11-28T07:51:15.472885Z",
+  "generatedAt": "2026-11-28T16:55:00.540452Z",
   "sources": {
     "calendarUpdatedAt": "2026-11-26T07:29:57.888098+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:03.763456+00:00",
       "2026-11-25T00:07:03.773459+00:00"
     ],
-    "epgUpdatedAt": "2026-11-28T07:51:13.792057Z",
+    "epgUpdatedAt": "2026-11-28T16:54:59.010499Z",
     "epgState": "ok",
     "epgCalendarState": "ok"
   },
