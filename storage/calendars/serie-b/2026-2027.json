@@ -2,7 +2,7 @@
   "competition": "Serie B",
   "season": "2026/2027",
   "total": 380,
-  "updatedAt": "2026-11-28T06:57:19.538680+00:00",
+  "updatedAt": "2026-11-28T19:42:44.695406+00:00",
   "matches": [
     {
       "id": "202519",
@@ -1853,9 +1853,9 @@
       "awayTeam": "Virtus Entella",
       "stadium": "Stadio Cino e Lillo Del Duca",
       "city": "Ascoli Piceno",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 0,
       "espnId": "401899528"
     },
     {
@@ -1868,9 +1868,9 @@
       "awayTeam": "Hellas Verona",
       "stadium": "Stadio Carlo Castellani - Computer Gross Arena",
       "city": "Empoli",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 2,
       "espnId": "401899525"
     },
     {
@@ -1883,9 +1883,9 @@
       "awayTeam": "Juve Stabia",
       "stadium": "Dei Marmi",
       "city": "Carrara",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 1,
       "espnId": "401899527"
     },
     {
@@ -1898,9 +1898,9 @@
       "awayTeam": "Cesena",
       "stadium": "Romeo Menti di Vicenza",
       "city": "Vicenza",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
       "espnId": "401899524"
     },
     {
@@ -1913,9 +1913,9 @@
       "awayTeam": "Benevento",
       "stadium": "Stadio Renzo Barbera",
       "city": "Palermo",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 3,
+      "awayScore": 0,
       "espnId": "401899522"
     },
     {

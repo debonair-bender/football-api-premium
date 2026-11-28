@@ -2,7 +2,7 @@
   "competition": "Serie A",
   "season": "2026/2027",
   "total": 380,
-  "updatedAt": "2026-11-28T06:57:18.924947+00:00",
+  "updatedAt": "2026-11-28T19:42:43.977756+00:00",
   "matches": [
     {
       "id": "186094",
@@ -1719,9 +1719,9 @@
       "awayTeam": "Parma",
       "stadium": "Stadio Benito Stirpe",
       "city": "Frosinone",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
       "espnId": "401875081"
     },
     {
@@ -1734,9 +1734,9 @@
       "awayTeam": "Lazio",
       "stadium": "Stadio Olimpico Grande Torino",
       "city": "Torino",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 2,
       "espnId": "401874826"
     },
     {

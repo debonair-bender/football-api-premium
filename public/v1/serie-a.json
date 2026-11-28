@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "serie-a",
   "season": "2026-2027",
-  "generatedAt": "2026-11-28T16:55:00.540452Z",
+  "generatedAt": "2026-11-28T19:42:45.117728Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-28T06:57:18.924947+00:00",
+    "calendarUpdatedAt": "2026-11-28T19:42:43.977756+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.018085+00:00",
       "2026-11-25T00:07:02.030271+00:00"
@@ -1716,9 +1716,9 @@
       "kickoffUtc": "2026-11-28T14:00:00Z",
       "round": 13,
       "venue": "Stadio Benito Stirpe",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
       "minute": null,
       "broadcasts": [
         {
@@ -1745,9 +1745,9 @@
       "kickoffUtc": "2026-11-28T17:00:00Z",
       "round": 13,
       "venue": "Stadio Olimpico Grande Torino",
-      "status": "SCHEDULED",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 2,
       "minute": null,
       "broadcasts": [
         {
