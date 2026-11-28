@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "competition": "serie-a",
   "season": "2026-2027",
-  "generatedAt": "2026-11-28T06:57:20.193327Z",
+  "generatedAt": "2026-11-28T07:51:15.472885Z",
   "sources": {
     "calendarUpdatedAt": "2026-11-28T06:57:18.924947+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.018085+00:00",
       "2026-11-25T00:07:02.030271+00:00"
     ],
-    "epgUpdatedAt": "2026-11-27T23:28:20.693428Z",
+    "epgUpdatedAt": "2026-11-28T07:51:13.792057Z",
     "epgState": "ok",
     "epgCalendarState": "ok"
   },
@@ -1722,10 +1722,10 @@
       "minute": null,
       "broadcasts": [
         {
-          "programmeId": "957221d3f8db60c2c0695200",
+          "programmeId": "64fc9f6e9d86e63fb20fe3ec",
           "channelId": "ZONADAZN.it",
-          "startUtc": "2026-11-28T14:00:00Z",
-          "endUtc": "2026-11-28T14:15:00Z",
+          "startUtc": "2026-11-28T13:45:00Z",
+          "endUtc": "2026-11-28T16:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -1751,10 +1751,10 @@
       "minute": null,
       "broadcasts": [
         {
-          "programmeId": "442d2624916b6b22b7a672c5",
+          "programmeId": "8129622d6115a3e541113149",
           "channelId": "ZONADAZN.it",
-          "startUtc": "2026-11-28T17:00:00Z",
-          "endUtc": "2026-11-28T18:50:00Z",
+          "startUtc": "2026-11-28T16:00:00Z",
+          "endUtc": "2026-11-28T19:52:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -1833,10 +1833,10 @@
       "minute": null,
       "broadcasts": [
         {
-          "programmeId": "7ab759df8a4a3e907ae96720",
+          "programmeId": "cd50ba1bc290f2aa40244496",
           "channelId": "ZONADAZN.it",
-          "startUtc": "2026-11-29T11:30:00Z",
-          "endUtc": "2026-11-29T12:00:00Z",
+          "startUtc": "2026-11-29T11:00:00Z",
+          "endUtc": "2026-11-29T13:30:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -1862,10 +1862,10 @@
       "minute": null,
       "broadcasts": [
         {
-          "programmeId": "e5ab14959dbf95770cdf431f",
+          "programmeId": "ec23cb9c0ce99d2c811af85f",
           "channelId": "ZONADAZN.it",
-          "startUtc": "2026-11-29T14:00:00Z",
-          "endUtc": "2026-11-29T14:30:00Z",
+          "startUtc": "2026-11-29T13:30:00Z",
+          "endUtc": "2026-11-29T15:57:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -1902,9 +1902,9 @@
           "channelAliases": []
         },
         {
-          "programmeId": "f86e5f42e0aa56ff74fb07aa",
+          "programmeId": "30f5151335edd58b839227ac",
           "channelId": "SkySport4K.it",
-          "startUtc": "2026-11-29T17:00:00Z",
+          "startUtc": "2026-11-29T16:55:00Z",
           "endUtc": "2026-11-29T19:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
@@ -1915,9 +1915,9 @@
           ]
         },
         {
-          "programmeId": "4a36703fdfb19a2679162169",
+          "programmeId": "269d2d2ce7d9eb0c3ef5ce67",
           "channelId": "SkySportCalcio.it",
-          "startUtc": "2026-11-29T17:00:00Z",
+          "startUtc": "2026-11-29T16:55:00Z",
           "endUtc": "2026-11-29T19:00:00Z",
           "broadcastType": "live",
           "confidence": "high",
@@ -1944,10 +1944,10 @@
       "minute": null,
       "broadcasts": [
         {
-          "programmeId": "77f75f968b31ed2b192fed78",
+          "programmeId": "003f845ee1427170d5fb5f3b",
           "channelId": "ZONADAZN.it",
-          "startUtc": "2026-11-29T19:45:00Z",
-          "endUtc": "2026-11-29T21:25:00Z",
+          "startUtc": "2026-11-29T18:30:00Z",
+          "endUtc": "2026-11-29T23:30:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -1973,10 +1973,10 @@
       "minute": null,
       "broadcasts": [
         {
-          "programmeId": "b872c345b93a3a7d8a70c195",
+          "programmeId": "21bdee3322d1a2c05a440bae",
           "channelId": "ZONADAZN.it",
-          "startUtc": "2026-11-30T17:30:00Z",
-          "endUtc": "2026-11-30T19:45:00Z",
+          "startUtc": "2026-11-30T17:00:00Z",
+          "endUtc": "2026-11-30T19:33:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -2002,10 +2002,10 @@
       "minute": null,
       "broadcasts": [
         {
-          "programmeId": "aa4cee1136d78787f9340f0a",
+          "programmeId": "f6b3e078fd021f2449a32051",
           "channelId": "ZONADAZN.it",
-          "startUtc": "2026-11-30T19:45:00Z",
-          "endUtc": "2026-11-30T22:00:00Z",
+          "startUtc": "2026-11-30T19:33:00Z",
+          "endUtc": "2026-11-30T23:30:00Z",
           "broadcastType": "live",
           "confidence": "high",
           "evidence": "teams_in_title_and_time",
@@ -2029,7 +2029,22 @@
       "homeScore": null,
       "awayScore": null,
       "minute": null,
-      "broadcasts": []
+      "broadcasts": [
+        {
+          "programmeId": "91b7b72b59387c0fe5f2f50b",
+          "channelId": "ZONADAZN.it",
+          "startUtc": "2026-12-04T19:45:00Z",
+          "endUtc": "2026-12-04T20:30:00Z",
+          "broadcastType": "live",
+          "confidence": "high",
+          "evidence": "teams_in_title_and_time",
+          "channelName": "IT - ZONA DAZN",
+          "channelAliases": [
+            "Zona DAZN",
+            "Zona DAZN 1"
+          ]
+        }
+      ]
     },
     {
       "id": "serie-a:2026-2027:186224",
