@@ -2,7 +2,7 @@
   "competition": "Serie A",
   "season": "2026/2027",
   "total": 380,
-  "updatedAt": "2026-11-27T20:52:40.956779+00:00",
+  "updatedAt": "2026-11-28T06:57:18.924947+00:00",
   "matches": [
     {
       "id": "186094",
@@ -1704,7 +1704,7 @@
       "awayTeam": "Bologna",
       "stadium": "Stadio Pier Luigi Penzo",
       "city": "Venezia",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 0,
       "awayScore": 0,
       "espnId": "401875004"
@@ -1845,6 +1845,21 @@
       "espnId": "401875019"
     },
     {
+      "id": "186229",
+      "timestamp": 1796413500,
+      "date": "2026-12-04",
+      "time": "19:45",
+      "round": 14,
+      "homeTeam": "Bologna",
+      "awayTeam": "AS Roma",
+      "stadium": "Renato Dall'Ara",
+      "city": "Bologna",
+      "status": "SCHEDULED",
+      "homeScore": null,
+      "awayScore": null,
+      "espnId": "401874984"
+    },
+    {
       "id": "186224",
       "timestamp": 1796578200,
       "date": "2026-12-06",
@@ -1910,20 +1925,6 @@
       "awayTeam": "Udinese",
       "stadium": "ALLIANZ STADIUM",
       "city": "TURIN",
-      "status": "TO BE PLAYED",
-      "homeScore": null,
-      "awayScore": null
-    },
-    {
-      "id": "186229",
-      "timestamp": 1796578200,
-      "date": "2026-12-06",
-      "time": "17:30",
-      "round": 14,
-      "homeTeam": "Bologna",
-      "awayTeam": "AS Roma",
-      "stadium": "",
-      "city": "BOLOGNA",
       "status": "TO BE PLAYED",
       "homeScore": null,
       "awayScore": null

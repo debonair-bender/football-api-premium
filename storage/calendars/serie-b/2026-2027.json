@@ -2,7 +2,7 @@
   "competition": "Serie B",
   "season": "2026/2027",
   "total": 380,
-  "updatedAt": "2026-11-25T21:21:29.576074+00:00",
+  "updatedAt": "2026-11-28T06:57:19.538680+00:00",
   "matches": [
     {
       "id": "202519",
@@ -1994,6 +1994,21 @@
       "espnId": "401899526"
     },
     {
+      "id": "202655",
+      "timestamp": 1796412600,
+      "date": "2026-12-04",
+      "time": "19:30",
+      "round": 15,
+      "homeTeam": "Pisa",
+      "awayTeam": "Sampdoria",
+      "stadium": "Arena Garibaldi - Stadio Romeo Anconetani",
+      "city": "Pisa",
+      "status": "SCHEDULED",
+      "homeScore": null,
+      "awayScore": null,
+      "espnId": "401899511"
+    },
+    {
       "id": "202650",
       "timestamp": 1796479200,
       "date": "2026-12-05",
@@ -2059,20 +2074,6 @@
       "awayTeam": "Sudtirol",
       "stadium": "STADIO PARTENIO-ADRIANO LOMBARDI",
       "city": "AVELLINO",
-      "status": "DA GIOCARE",
-      "homeScore": null,
-      "awayScore": null
-    },
-    {
-      "id": "202655",
-      "timestamp": 1796479200,
-      "date": "2026-12-05",
-      "time": "14:00",
-      "round": 15,
-      "homeTeam": "Pisa",
-      "awayTeam": "Sampdoria",
-      "stadium": "ARENA GARIBALDI - STADIO ROMEO ANCONETANI",
-      "city": "PISA",
       "status": "DA GIOCARE",
       "homeScore": null,
       "awayScore": null

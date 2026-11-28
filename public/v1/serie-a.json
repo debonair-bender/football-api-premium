@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "serie-a",
   "season": "2026-2027",
-  "generatedAt": "2026-11-27T23:28:22.236844Z",
+  "generatedAt": "2026-11-28T06:57:20.193327Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-27T20:52:40.956779+00:00",
+    "calendarUpdatedAt": "2026-11-28T06:57:18.924947+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.018085+00:00",
       "2026-11-25T00:07:02.030271+00:00"
@@ -1702,7 +1702,7 @@
       "kickoffUtc": "2026-11-27T19:45:00Z",
       "round": 13,
       "venue": "Stadio Pier Luigi Penzo",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 0,
       "awayScore": 0,
       "minute": null,
@@ -2018,6 +2018,20 @@
       ]
     },
     {
+      "id": "serie-a:2026-2027:186229",
+      "competition": "serie-a",
+      "homeTeam": "Bologna",
+      "awayTeam": "AS Roma",
+      "kickoffUtc": "2026-12-04T19:45:00Z",
+      "round": 14,
+      "venue": "Renato Dall'Ara",
+      "status": "SCHEDULED",
+      "homeScore": null,
+      "awayScore": null,
+      "minute": null,
+      "broadcasts": []
+    },
+    {
       "id": "serie-a:2026-2027:186224",
       "competition": "serie-a",
       "homeTeam": "Lazio",
@@ -2081,20 +2095,6 @@
       "kickoffUtc": "2026-12-06T17:30:00Z",
       "round": 14,
       "venue": "ALLIANZ STADIUM",
-      "status": "TO BE PLAYED",
-      "homeScore": null,
-      "awayScore": null,
-      "minute": null,
-      "broadcasts": []
-    },
-    {
-      "id": "serie-a:2026-2027:186229",
-      "competition": "serie-a",
-      "homeTeam": "Bologna",
-      "awayTeam": "AS Roma",
-      "kickoffUtc": "2026-12-06T17:30:00Z",
-      "round": 14,
-      "venue": "",
       "status": "TO BE PLAYED",
       "homeScore": null,
       "awayScore": null,

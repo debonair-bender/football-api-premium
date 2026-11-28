@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "competition": "serie-b",
   "season": "2026-2027",
-  "generatedAt": "2026-11-27T23:28:22.236844Z",
+  "generatedAt": "2026-11-28T06:57:20.193327Z",
   "sources": {
-    "calendarUpdatedAt": "2026-11-25T21:21:29.576074+00:00",
+    "calendarUpdatedAt": "2026-11-28T06:57:19.538680+00:00",
     "liveUpdatedAt": [
       "2026-11-25T00:07:02.875235+00:00",
       "2026-11-25T00:07:02.885246+00:00"
@@ -1980,6 +1980,20 @@
       "broadcasts": []
     },
     {
+      "id": "serie-b:2026-2027:202655",
+      "competition": "serie-b",
+      "homeTeam": "Pisa",
+      "awayTeam": "Sampdoria",
+      "kickoffUtc": "2026-12-04T19:30:00Z",
+      "round": 15,
+      "venue": "Arena Garibaldi - Stadio Romeo Anconetani",
+      "status": "SCHEDULED",
+      "homeScore": null,
+      "awayScore": null,
+      "minute": null,
+      "broadcasts": []
+    },
+    {
       "id": "serie-b:2026-2027:202650",
       "competition": "serie-b",
       "homeTeam": "Hellas Verona",
@@ -2043,20 +2057,6 @@
       "kickoffUtc": "2026-12-05T14:00:00Z",
       "round": 15,
       "venue": "STADIO PARTENIO-ADRIANO LOMBARDI",
-      "status": "DA GIOCARE",
-      "homeScore": null,
-      "awayScore": null,
-      "minute": null,
-      "broadcasts": []
-    },
-    {
-      "id": "serie-b:2026-2027:202655",
-      "competition": "serie-b",
-      "homeTeam": "Pisa",
-      "awayTeam": "Sampdoria",
-      "kickoffUtc": "2026-12-05T14:00:00Z",
-      "round": 15,
-      "venue": "ARENA GARIBALDI - STADIO ROMEO ANCONETANI",
       "status": "DA GIOCARE",
       "homeScore": null,
       "awayScore": null,
